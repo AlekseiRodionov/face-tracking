@@ -1,2 +1,5 @@
 .idea/
-Data/COCO/
+venv/
+runs/
+Data/wider_face_yolo/
+yolo11n.pt
