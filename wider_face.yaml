@@ -1,8 +1,8 @@
 path: ../face-tracking/Data/wider_face_yolo # dataset root dir
-train: images # train images (relative to 'path') 128 images
-val: images # val images (relative to 'path') 128 images
+train: images # train images (relative to 'path') 
+val: images # val images (relative to 'path')
 #test: # test images (optional)
 
 nc: 1
-# Classes (80 COCO classes)
+
 names: [face]
